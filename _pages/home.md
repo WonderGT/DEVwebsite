@@ -56,20 +56,18 @@ post_date: 2018-07-25 16:30:33
 [/row]
 [section label="Media Right Large" bg_color="rgb(247, 247, 247)" bg_overlay="rgba(255, 255, 255, 0.85)" padding="0px"]
 
-[row style="collapse" width="full-width" v_align="middle"]
+[row style="collapse" width="full-width" v_align="middle" padding="0px 0px 100px 0px"]
 
-[col span="6" span__sm="12" padding="10% 10% 10% 10%" align="center" max_width="520px"]
+[col span="5" span__sm="12" padding="4% 10% 0% 10%" align="center" max_width="520px"]
 
-<br />
-<h2>DISEÑO DE PÁGINAS WEB</h2>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+<p></p>
+<h1 style="color:#1A9F89;text-shadow: #EDEDED 3px 2px 0;">Diseño<br>De páginas Web</h1>
+<p style="font-size:120%;color:black;">Diseñamos cualquier concepto que necesites para que seas visible en internet.</p>
 
 [/col]
-[col span="6" span__sm="12"]
+[col span="7" span__sm="12" margin="50px 0px 0px 0px" align="center"]
 
-[ux_image id="44"]
-
-[ux_image id="51" width="70" margin="-285px 3 0px 0px"]
+[ux_image id="55" width="89"]
 
 
 [/col]
