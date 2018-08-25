@@ -54,3 +54,26 @@ post_date: 2018-07-25 16:30:33
 [/col]
 
 [/row]
+[section label="Media Right Large" bg_color="rgb(247, 247, 247)" bg_overlay="rgba(255, 255, 255, 0.85)" padding="0px"]
+
+[row style="collapse" width="full-width" v_align="middle"]
+
+[col span="6" span__sm="12" padding="10% 10% 10% 10%" align="center" max_width="520px"]
+
+<br />
+<h2>DISEÑO DE PÁGINAS WEB</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+[/col]
+[col span="6" span__sm="12"]
+
+[ux_image id="44"]
+
+[ux_image id="51" width="70" margin="-285px 3 0px 0px"]
+
+
+[/col]
+
+[/row]
+
+[/section]
