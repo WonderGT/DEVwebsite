@@ -12,7 +12,7 @@ post_date: 2018-07-25 16:30:33
 
 [col span__sm="12" align="center"]
 
-<p>[rev_slider alias="darkhome"]</p>
+[rev_slider alias="darkhome"]
 
 [/col]
 
@@ -23,33 +23,30 @@ post_date: 2018-07-25 16:30:33
 
 [featured_box img="66" inline_svg="0" img_width="114" pos="center" title="DISEÑO WEB" margin="0px 0px 15px 0px"]
 
-<pstyle="color:black;">Sabemos la importancia del concepto. Diseñamos tu página web a la medida de tu necesidad</p>
+&lt;pstyle="color:black;"&gt;Sabemos la importancia del concepto. Diseñamos tu página web a la medida de tu necesidad
 
 [/featured_box]
 [button text="Precios" color="alert" size="small" radius="35" icon="icon-angle-right"]
-
 
 [/col]
 [col span="4" span__sm="12" align="center" bg_color="rgb(237, 237, 237)" animate="fadeInDown" parallax="2" depth_hover="5"]
 
 [featured_box img="65" inline_svg="0" img_width="114" pos="center" title="HARDWARE" margin="0px 0px 15px 0px"]
 
-<pstyle="color:black;">Sabemos manejar instalaciones de electrónicos en PC y móviles. No tienes que preocuparte más.</p>
+&lt;pstyle="color:black;"&gt;Sabemos manejar instalaciones de electrónicos en PC y móviles. No tienes que preocuparte más.
 
 [/featured_box]
 [button text="servicios" size="small" radius="99" icon="icon-star"]
-
 
 [/col]
 [col span="4" span__sm="12" align="center" bg_color="rgb(237, 237, 237)" animate="flipInY" parallax="2" depth_hover="5"]
 
 [featured_box img="67" inline_svg="0" img_width="114" pos="center" title="SOPORTE TÉCNICO" margin="0px 0px 15px 0px"]
 
-<pstyle="color:black;">La importancia de una buena atención técnica es la clave que nos ha servido a que nuestros clientes permanezcan con nosotros.</p>
+&lt;pstyle="color:black;"&gt;La importancia de una buena atención técnica es la clave que nos ha servido a que nuestros clientes permanezcan con nosotros.
 
 [/featured_box]
 [button text="+info" color="secondary" size="small" radius="99" icon="icon-user"]
-
 
 [/col]
 
@@ -59,18 +56,15 @@ post_date: 2018-07-25 16:30:33
 [row style="collapse" width="full-width" v_align="middle" h_align="center"]
 
 [col span="5" span__sm="12" align="center" max_width="520px"]
-
-<p></p>
-<h1 style="color:#1A9F89;text-shadow: #EDEDED 3px 2px 0;">Diseño<br>De páginas Web</h1>
-<p style="font-size:120%;color:black;">Diseñamos cualquier concepto que necesites para que seas visible en internet.</p>
+<h1 style="color: #1a9f89; text-shadow: #EDEDED 3px 2px 0;">Diseño
+De páginas Web</h1>
+<p style="font-size: 120%; color: black;">Diseñamos cualquier concepto que necesites para que seas visible en internet.</p>
 [button text="ver Planes" color="secondary" radius="99"]
-
 
 [/col]
 [col span="7" span__sm="12" align="center"]
 
 [ux_image id="55" width="89"]
-
 
 [/col]
 
