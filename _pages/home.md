@@ -1,6 +1,6 @@
 ---
 ID: 58
-post_title: Home
+post_title: error php
 author: bryanpaz
 post_excerpt: ""
 layout: page
