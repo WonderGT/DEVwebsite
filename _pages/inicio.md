@@ -1,10 +1,10 @@
 ---
 ID: 88
 post_title: Inicio
-author: bryanpaz
+author: Bryan Paz
 post_excerpt: ""
 layout: page
-permalink: https://wonder.gt/inicio/
+permalink: https://wonder.gt/
 published: true
 post_date: 2018-08-28 21:34:48
 ---
